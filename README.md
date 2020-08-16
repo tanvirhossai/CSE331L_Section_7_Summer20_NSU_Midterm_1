@@ -10,3 +10,9 @@ Department of Electrical and Computer Engineering
 This is the official Github Repository for Submission of Mid Term-1, <b>CSE331L: Microprocessor Interfacing & Embedded System Lab, Section 7, Summer 2020</b>. Submission of Mid Term-1 is facilitated here.</br> </br> 
 
 </html>
+
+
+## License 📄
+This work is dual-licensed under MIT and CC BY-NC-SA 4.0. You can choose between one of them if you use this work.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
