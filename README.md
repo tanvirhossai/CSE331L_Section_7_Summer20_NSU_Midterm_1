@@ -11,6 +11,14 @@ This is the official Github Repository for Submission of Mid Term-1, <b>CSE331L:
 
 </html>
 
+## Submission Instruction 📖
+
+_For Part-1:_ 
+* Write down the answer in a piece of paper and make a pdf using the *Camscanner* apps. 
+* Submit the pdf with this format - Your_Name_Id.pdf into the Part-1 Folder
+
+_For Part-2:_
+* 
 
 ## License 📄
 This work is dual-licensed under MIT and CC BY-NC-SA 4.0. You can choose between one of them if you use this work.
