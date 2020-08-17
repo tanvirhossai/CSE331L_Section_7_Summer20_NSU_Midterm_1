@@ -13,16 +13,16 @@ This is the official Github Repository for Submission of Mid Term-1, <b>CSE331L:
 
 ## Submission Instruction 📖
 
-_For Part-1:_ 
+**_For Part-1:_** 
 * Write down the answer in a piece of paper and make a pdf using the *Camscanner* apps. 
 * Submit the pdf with this format - Your_Name_Id.pdf into the Part-1 Folder
 
-_For Part-2:_
+**_For Part-2:_**
 * Write and compile code using *EMU8086*
 * For each code, you have to rename the file according to question number. i.e. if you are ansering question 1, your asm file name should be *1.asm*
 * **Take a screenshot of your whole window (make sure date and time is visible) and rename the file as per the question name**. (Without this screenshot, you will get 0).
 
-_Submission Process:_
+**_Submission Process:_**
 * Fork this repo and download using this link - https://github.com/aaneloy/CSE331L_Section_7_Summer20_NSU_Midterm_1.git
 * Complete both Part 1 and 2.
 * Push the submission in your Repo. 
