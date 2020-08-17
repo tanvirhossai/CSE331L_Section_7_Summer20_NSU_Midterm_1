@@ -20,6 +20,12 @@ _For Part-1:_
 _For Part-2:_
 * 
 
+_Submission Process:_
+* Fork this repo and download using this link - https://github.com/aaneloy/CSE331L_Section_7_Summer20_NSU_Midterm_1.git
+* Complete both Part 1 and 2.
+* Push the submission in your Repo. 
+
+
 ## License 📄
 This work is dual-licensed under MIT and CC BY-NC-SA 4.0. You can choose between one of them if you use this work.
 
