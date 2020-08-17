@@ -24,7 +24,7 @@ This is the official Github Repository for Submission of Mid Term-1, <b>CSE331L:
 
 ## Submission Process 🚀
 
-* Fork this repo and download using this link - https://github.com/aaneloy/CSE331L_Section_7_Summer20_NSU_Midterm_1.git
+* *Fork* this repo and download using this link - https://github.com/aaneloy/CSE331L_Section_7_Summer20_NSU_Midterm_1.git
 * Complete both Part 1 and 2.
 * Push the submission in your Repo. 
 
